@@ -1,11 +1,10 @@
 # YMS 301 - 1. Hafta: Sözdizimi + Fonksiyonlar
 
 Bu repoda 1. haftanın canlı kodlama defteri ([`canli_kodlama_hafta1.ipynb`](canli_kodlama_hafta1.ipynb))
-ve 7 Lab Alıştırması'nın çözümleri yer alıyor. Bu hafta Python'da girintinin blok belirlemesini, dinamik
-tiplemeyi, `is None` kalıbını, f-string ve slicing kullanımını, tip ipuçlu ve docstring'li fonksiyonlar
-yazmayı ve mutable default argument tuzağını öğrendim. Mini proje olarak bir parolanın istatistiklerini
-`dict` olarak döndüren `parola_istatistikleri()` fonksiyonunu yazdım ve hata ayıklama görevlerinde bir
-`SyntaxError` ile sessiz bir mantık hatasını düzelttim.
+ve Lab Alıştırmaları'na yazdığım çözümler yer alıyor (Görev 1–5). Bu hafta Python'da girintinin blok
+belirlemesini, dinamik tiplemeyi, `is None` kalıbını, f-string ve slicing kullanımını, tip ipuçlu ve
+docstring'li fonksiyonlar yazmayı ve mutable default argument tuzağını öğrendim. Mini proje olarak bir
+parolanın istatistiklerini `dict` olarak döndüren `parola_istatistikleri()` fonksiyonunu yazdım.
 
 ## Lab Alıştırmaları
 
